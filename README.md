@@ -23,7 +23,7 @@ cd ABI_Hackastra
 2. Install Required Libraries
 Ensure you have Python 3.10 or higher installed. Run:
 
-pip install streamlit google-genai python-dotenv
+pip install streamlit google-genai python-dotenv pandas
 
 3. Configure Environment Variables (.env)
 Create a file named .env in the root directory:

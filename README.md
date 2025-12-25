@@ -1,7 +1,9 @@
 🤖 ABI Agent: Autonomous Business Intelligence Ecosystem
+
 The ABI Agent is a sophisticated dual-sided platform that bridges the gap between complex business data and consumer satisfaction. Using Gemini 1.5 Flash and a custom function-calling architecture, it provides proactive diagnostics for business owners and intelligent logistics support for customers.
 
 🌟 Core Architecture
+
 The system is split into two specialized interfaces:
 
 Business Command: For data-driven decision-making, trend analysis, and automated system auditing.
@@ -11,6 +13,7 @@ Customer Portal: For real-time, empathetic order tracking and delivery resolutio
 The "Glass Box" feature provides full transparency by displaying the Agent's internal thought process and tool execution logs in real-time.
 
 🚀 Installation & Setup
+
 1. Clone the Repository
 git clone https://github.com/QuackCoder14/ABI_Hackastra.git
 
@@ -32,6 +35,7 @@ The application manages user access through a local JSON file.
 Note: New users can also be registered directly through the app UI.
 
 💻 Project Structure
+
 app.py: The main Streamlit entry point. It handles the UI, session state, routing between portals, and the conversational loop.
 
 tools.py: The "engine" of the agent. Contains the Python functions that interact with csv files and perform data analysis.

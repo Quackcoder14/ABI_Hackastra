@@ -1,0 +1,11 @@
+product_id,name,category,price,stock_level
+PROD_A1,Industrial Drill,Tools,150,45
+PROD_A2,Safety Helmet,Gear,25,120
+PROD_A3,Steel Boots,Gear,85,30
+PROD_B1,Welding Mask,Safety,110,15
+PROD_B2,Cargo Straps,Logistics,15.5,200
+PROD_C1,Solar Panel,Energy,300,10
+PROD_C2,Battery Pack,Energy,450,8
+PROD_D1,Lubricant Oil,Maintenance,12,500
+PROD_D2,Air Filter,Maintenance,45,60
+PROD_E1,Office Desk,Furniture,220,12

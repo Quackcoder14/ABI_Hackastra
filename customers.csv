@@ -1,0 +1,11 @@
+customer_id,name,email,region
+CUST_001,Alice Johnson,alice@example.com,North
+CUST_002,Bob Smith,bob@example.com,South
+CUST_003,Charlie Davis,charlie@example.com,East
+CUST_004,Diana Prince,diana@example.com,West
+CUST_005,Evan Wright,evan@example.com,North
+CUST_006,Fiona Glenanne,fiona@example.com,South
+CUST_007,George Bluth,george@example.com,East
+CUST_008,Hannah Abbott,hannah@example.com,West
+CUST_009,Ian Miller,ian@example.com,North
+CUST_010,Julia Roberts,julia@example.com,South
